@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an app for my brother :trollface: in React Native and some school projects
+- 🌱 I’m currently learning React Native and C++
+- ⚡ I'm looking foward to learn C# and Kotlin
+
+- 📫 How to reach me: ivan.lomaka5@gmail.com or https://www.instagram.com/ivan__lomaka/
+
 <!--
 **IvanLomaka/IvanLomaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

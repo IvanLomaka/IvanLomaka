@@ -7,9 +7,9 @@
 
 <br/>
 
-- 🔭 I’m currently working on an app for my brother in React Native and some school projects
+- 🔭 I’m currently working on @TreasureHunting
 - 🌱 I’m currently learning nodeJS, React Native and C++
-- ⚡ I'm looking foward to learn C# and Kotlin
+- ⚡ I'm looking foward to learn Python and Kotlin
 
 - 📫 How to reach me: ivan.lomaka5@gmail.com or [**Instagram**](https://www.instagram.com/ivan__lomaka/)
 <br/>

@@ -7,7 +7,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on @TreasureHunting
+- 🔭 I’m currently working on Treasure Hunting
 - 🌱 I’m currently learning nodeJS, React Native and C++
 - ⚡ I'm looking foward to learn Python and Kotlin
 

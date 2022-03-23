@@ -7,7 +7,8 @@
 
 <br/>
 
-- 🔭 I’m currently working on Treasure Hunting
+- 🔭 I’m currently working on just another website
+- :snowflake: Currently, I have frozen the Treasure Hunting project
 - 🌱 I’m currently learning nodeJS, React Native and C++
 - ⚡ I'm looking foward to learn Python and Kotlin
 
